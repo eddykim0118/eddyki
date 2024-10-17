@@ -6,4 +6,4 @@
 
 ---
 LET'S CONNECT!
-[link]([http://example.com](https://www.linkedin.com/in/eddy-wg-kim/))
+[link](https://www.linkedin.com/in/eddy-wg-kim/)
