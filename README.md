@@ -1,1 +1,3 @@
-Hi There 
+Hi There 👋 I'm Eddy!
+
+*** 💻 
